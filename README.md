@@ -1,2 +1,3 @@
 # hello-world
 Este repositorio es para practicar el flujo de GitHub
+Solo soy desarrollador enfocado en herramientas para mejorar la experiencia, ahora tabajo en Visual Studio Code y antigravity con algunas extensiones. Creo extensiones orientadas a la personalización de temas, organización visual y productividad, con especial interés en propuestas como Antigravity IDE. Mi objetivo es ofrecer soluciones simples, estéticas y funcionales para el día a día del desarrollador. Construyo herramientas para desarrolladores con una idea simple: el entorno también moldea la forma en que pensamos. Mis extensiones buscan mejorar no solo la apariencia, sino la relación entre el desarrollador y su código, equilibrando funcionalidad, claridad y estética.
